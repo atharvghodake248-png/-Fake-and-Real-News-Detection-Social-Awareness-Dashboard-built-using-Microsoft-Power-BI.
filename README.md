@@ -1,0 +1,2 @@
+# -Fake-and-Real-News-Detection-Social-Awareness-Dashboard-built-using-Microsoft-Power-BI.
+🚨 New Data Analytics Project 🚨  I’m excited to share my latest project **“Fake and Real News Detection &amp; Social Awareness Dashboard”** built using Microsoft Power BI. This project helped me understand how **data analytics can be used to detect misinformation and analyze public engagement with news sources.**
